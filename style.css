@@ -169,7 +169,7 @@ a {
     margin: 2rem;
     padding: 2rem;
     border-radius: 12px;
-    border: solid var(--color1);
+    border: solid var(--color3);
     flex: 0 0 20%;
 
 }
@@ -190,7 +190,7 @@ a {
     margin: 2rem;
     padding: 2rem;
     border-radius: 12px;
-    border: solid var(--color1);
+    border: solid var(--color3);
     flex: 0 0 20%;
 }
 
