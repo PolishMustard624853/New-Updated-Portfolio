@@ -76,7 +76,7 @@ header:hover {
 
 #resume a:hover {
     transition: .4s;
-    color: var(--color3);
+    color: var(--color1);
 }
 
 #previousWork a:hover {
@@ -103,10 +103,10 @@ a {
     text-align: center;
     font-size: 40px;
     position: relative;
-    background-image: url(./Photos/pexels-andy-vu-3244513.jpg);
+    background-image: url(./Photos/13134.jpg);
     background-position: center;
     background-size: cover;
-    color: var(--color2);
+    color: var(--color3);
     margin: 5rem;
     padding: 9rem;
     border-radius: 15px;
@@ -116,7 +116,7 @@ a {
 
 #aboutMe p:hover {
     transition: .4s ease-in-out;
-    color: var(--color3);
+    color: var(--color1);
 }
 
 .previousWork {
@@ -124,7 +124,7 @@ a {
     font-weight: bold;
     position: relative;
     font-size: xx-large;
-    background-image: url(./Photos/pexels-pixabay-39561.jpg);
+    background-image: url(./Photos/eagle-nebula-s-pillars-of-creation-3840x2160_4695-mm-90.jpg);
     background-position: center;
     background-size: cover;
     color: var(--color1);
@@ -162,7 +162,7 @@ a {
     font-family: 'Comfortaa', sans-serif;
     flex-wrap: wrap;
     position: relative;
-    background-image: url(./Photos/pexels-alex-andrews-816608.jpg);
+    background-image: url(./Photos/245341.jpg);
     background-size: cover;
     color: var(--color2);
     font-size: 20px;
@@ -183,7 +183,7 @@ a {
     font-family: 'Comfortaa', sans-serif;
     flex-wrap: wrap;
     position: relative;
-    background-image: url(./Photos/pexels-alex-andrews-816608.jpg);
+    background-image: url(./Photos/245341.jpg);
     background-size: cover;
     color: var(--color2);
     font-size: 20px;
